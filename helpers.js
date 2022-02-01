@@ -46,7 +46,9 @@ const helpersList = [
     'stripQuerystring',
     'stylesheet',
     'thirdParty',
+    'str_replace',
     'toLowerCase',
+    'toUpperCase',
     'truncate',
     'unless',
 ];
