@@ -1,0 +1,3 @@
+# Organization-wide review ownership. Last matching CODEOWNERS rule wins.
+# This deliberately overrides any earlier file-specific owners.
+* @arcticleaf/production-reviewers
